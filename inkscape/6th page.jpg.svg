@@ -43,13 +43,13 @@
      inkscape:window-height="1016"
      id="namedview18289"
      showgrid="false"
-     inkscape:zoom="0.73033487"
+     inkscape:zoom="1.0328495"
      inkscape:cx="401.11494"
-     inkscape:cy="609.59949"
+     inkscape:cy="501.3639"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer15" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -1039,9 +1039,15 @@
          id="tspan4891-3">without... servers?</tspan></text>
   </g>
   <g
+     style="display:inline"
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="boxes" />
+     inkscape:label="boxes">
+    <path
+       id="path10048"
+       d="M 16.45932,1103.7426 14.522929,764.87428 H 771.65165 l 0.96819,340.80472 z"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
   <path
      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
      id="path20046"

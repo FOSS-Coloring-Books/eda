@@ -31,7 +31,21 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs11873" />
+     id="defs11873">
+    <filter
+       height="1.0006945"
+       y="-0.00034727432"
+       width="1.0009825"
+       x="-0.00049122517"
+       id="filter10412"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur10414"
+         stdDeviation="0.16243178"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      inkscape:current-layer="g11877"
      inkscape:window-maximized="1"
@@ -54,7 +68,7 @@
      pagecolor="#ffffff"
      inkscape:document-rotation="0" />
   <g
-     style="display:none"
+     style="display:none;filter:url(#filter10412)"
      id="g11877"
      inkscape:label="Image"
      inkscape:groupmode="layer">

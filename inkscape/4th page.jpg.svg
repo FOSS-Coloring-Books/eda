@@ -34,9 +34,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="27"
      inkscape:window-x="0"
-     inkscape:cy="596.88033"
-     inkscape:cx="659.05045"
-     inkscape:zoom="2.7979496"
+     inkscape:cy="592.92474"
+     inkscape:cx="378.71869"
+     inkscape:zoom="0.69948741"
      showgrid="false"
      id="namedview11871"
      inkscape:window-height="1016"
@@ -51,7 +51,7 @@
      pagecolor="#ffffff"
      inkscape:document-rotation="0" />
   <g
-     style="display:inline"
+     style="display:none"
      id="g11877"
      inkscape:label="Image"
      inkscape:groupmode="layer">
@@ -69,6 +69,11 @@
        id="path7733-7-2"
        d="m 403.72207,571.16877 4.33076,0.26025 2.68417,1.76838 1.05184,2.79159 -1.48471,2.9091 -4.45455,1.60674 -4.46409,-1.02358 -1.69898,-2.24514 0.46144,-3.71618 z"
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.573867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.46225px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 406.43227,581.20598 v 0 l -3.6647,6.38876 -6.65375,1.86949 -7.21101,-4.15731 0.47359,-6.0358 4.93198,-5.46301 6.42226,0.41297"
+       id="path7735-7-1-0"
+       sodipodi:nodetypes="cccccccc" />
   </g>
   <g
      style="display:inline"
@@ -5344,5 +5349,10 @@
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 128.90428,830.51852 6.98405,0.49004 4.32865,3.32972 1.69627,5.25636 -2.39433,5.47764 -7.18369,3.02538 -7.19905,-1.92733 -2.73987,-4.22743 0.74413,-6.99731 z"
        id="path7733-2" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       id="path7735-7-1"
+       d="m 137.75875,586.374 v 0 l -3.6647,6.38876 -6.65375,1.86949 -7.21101,-4.15731 0.47359,-6.0358 4.93198,-5.46301 6.42226,0.41297"
+       style="fill:none;stroke:#000000;stroke-width:0.46225px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

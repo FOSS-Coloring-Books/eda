@@ -29,13 +29,13 @@
   <defs
      id="defs45563" />
   <sodipodi:namedview
-     inkscape:current-layer="g45567"
+     inkscape:current-layer="layer18"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="1920"
-     inkscape:cy="493.09113"
+     inkscape:cy="225.41705"
      inkscape:cx="248.44331"
-     inkscape:zoom="0.66229508"
+     inkscape:zoom="2.6491803"
      showgrid="false"
      id="namedview45561"
      inkscape:window-height="1043"
@@ -890,11 +890,11 @@
     <path
        id="path38683"
        d="m 186.06286,136.50301 -12.22371,57.31136 c 0,0 5.05905,2.66887 13.16445,1.48778 8.10539,-1.18108 12.90493,-2.78682 12.90493,-2.78682 z"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        id="path38685"
        d="m 173.70939,60.515475 -20.78326,95.349365 c 0,0 5.83613,3.32797 15.33641,2.67034 9.50029,-0.65763 13.09957,-0.74463 13.09957,-0.74463"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        id="path38687"
        d="m 143.76595,308.10271 2.40621,134.16962"
@@ -908,7 +908,7 @@
        sodipodi:nodetypes="cscsccc"
        id="path38691"
        d="m 63.791105,277.85349 c 0,0 11.136995,-21.84786 13.942255,-30.99648 2.80526,-9.14861 3.291112,-11.82632 3.291112,-11.82632 0,0 3.956118,23.65782 6.176734,30.23119 2.220616,6.57338 2.690986,7.73309 2.690986,7.73309 l -3.258673,7.34676 c 0,0 -11.558705,5.20797 -22.842414,-2.48824 z"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
      id="g45567"

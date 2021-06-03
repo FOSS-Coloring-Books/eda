@@ -70,13 +70,13 @@
     </pattern>
   </defs>
   <sodipodi:namedview
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer5"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="495.59022"
-     inkscape:cx="501.52719"
-     inkscape:zoom="0.73033489"
+     inkscape:cy="688.90589"
+     inkscape:cx="632.62035"
+     inkscape:zoom="1.4606698"
      showgrid="false"
      id="namedview1705"
      inkscape:window-height="1043"
@@ -120,7 +120,9 @@
   <g
      inkscape:label="boxes"
      id="layer8"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 378.8691,996.25764 -3.68209,-22.66733 c 0,0 1.24807,-5.01495 9.89753,-9.97317 8.64946,-4.95822 18.25389,-8.831 38.37987,-8.71943 20.12598,0.11157 33.77912,5.59018 42.02226,10.29279 11.13033,6.34973 12.85805,10.31499 12.9127,17.53367 0.0298,3.93256 -2.25278,18.24823 -2.25278,18.24823 0,0 -20.16189,12.5338 -52.0097,10.0953 -27.39634,-2.0977 -45.26779,-14.81006 -45.26779,-14.81006 z"
@@ -132,7 +134,7 @@
        id="path50939"
        sodipodi:nodetypes="csssc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 420.27622,966.55948 10.96725,5.04103"
        id="path50947" />
     <path
@@ -159,7 +161,8 @@
   <g
      inkscape:label="text"
      id="layer4"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        id="text943-9"
        y="671.16187"
@@ -184,7 +187,7 @@
          sodipodi:role="line">Just like rolling back on Snow's spooky pumpkin pies, the bakery </tspan><tspan
          id="tspan2306"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso"
-         y="62.431694"
+         y="62.431679"
          x="31.44994"
          sodipodi:role="line">can rollback any potential errors so production isn't affected.</tspan></text>
   </g>
@@ -265,6 +268,40 @@
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.4891;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 540.76901,655.74372 c 0,0 -0.62331,-6.50319 -5.88258,-9.1494 -5.25927,-2.6462 -8.24405,-1.40868 -8.24405,-1.40868 0,0 -3.07175,7.77282 1.01403,10.92848 4.08579,3.15565 5.88258,3.74467 5.88258,3.74467 l 4.8534,1.52167 c 0,0 1.5642,0.53552 -2.95579,-6.08668 -4.51999,-6.6222 -5.86742,-6.93978 -5.86742,-6.93978"
        id="path50885-6"
+       sodipodi:nodetypes="cscsccsc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 626.97274,654.45029 c 0,0 -12.76618,-3.05208 -18.91952,10.96406 -6.15333,14.01614 -2.01439,27.80253 2.03851,34.09295 3.80375,5.90372 7.59644,6.37278 13.76369,5.85644 7.71342,-0.64578 4.56911,-0.26077 11.64199,-0.89727 0,0 3.1382,0.55307 11.43491,1.62721 4.49536,0.58199 9.48339,1.17809 14.47187,-4.49114 4.98847,-5.66924 7.02603,-21.92149 4.94687,-30.51895 -1.77668,-7.34667 -9.35481,-15.23017 -12.9723,-16.31561 -3.6175,-1.08544 -9.91549,-1.18944 -13.74289,0.45762 -3.8274,1.64707 -8.4216,1.02115 -12.66313,-0.77531 z"
+       id="path50875-9"
+       sodipodi:nodetypes="csssssssssc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 619.05152,678.13405 c 0,0 3.44201,12.52006 17.64428,12.24673 8.79412,-0.16925 16.04821,-11.25805 16.04821,-11.25805"
+       id="path50877-6"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09227;stroke-opacity:1"
+       id="path50879-3"
+       cx="628.32147"
+       cy="678.87036"
+       rx="2.7395012"
+       ry="2.8078682" />
+    <ellipse
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.39853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path50881-9"
+       cx="643.19122"
+       cy="678.98169"
+       rx="2.7473285"
+       ry="2.6512339" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 632.27229,655.96783 c 0,0 1.27831,-3.24261 -1.02966,-8.45327 -2.30797,-5.21067 -1.95435,-5.93162 -1.95435,-5.93162 l 2.37038,-1.46364 c 0,0 2.70177,1.37051 4.26185,6.81566 1.56008,5.44515 0.97766,9.20543 0.97766,9.20543"
+       id="path50883-5"
+       sodipodi:nodetypes="csccsc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 636.41534,650.17655 c 0,0 0.63247,-6.50319 5.96901,-9.1494 5.33654,-2.6462 8.36517,-1.40868 8.36517,-1.40868 0,0 3.11688,7.77282 -1.02893,10.92848 -4.14582,3.15565 -5.96901,3.74467 -5.96901,3.74467 l -4.9247,1.52167 c 0,0 -1.58719,0.53552 2.99921,-6.08668 4.5864,-6.6222 5.95363,-6.93978 5.95363,-6.93978"
+       id="path50885-8"
        sodipodi:nodetypes="cscsccsc" />
   </g>
 </svg>

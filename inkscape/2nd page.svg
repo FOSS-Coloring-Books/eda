@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="2nd page.svg"
    viewBox="0 0 793.59998 1122.5601"
    height="1122.5601"
    width="793.59998"
    id="svg4647"
-   version="1.1">
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata4653">
     <rdf:RDF>
@@ -57,14 +57,14 @@
   <sodipodi:namedview
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="620.38247"
-     inkscape:cx="408.003"
+     inkscape:cy="619.97322"
+     inkscape:cx="408.38485"
      inkscape:zoom="0.77745293"
      showgrid="false"
      id="namedview4649"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -74,7 +74,8 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
   <g
      style="display:none"
      id="g4655"
@@ -2975,7 +2976,7 @@
     <text
        xml:space="preserve"
        id="text2365"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2367);" />
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2367)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -2990,7 +2991,7 @@
     <text
        xml:space="preserve"
        id="text2375"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2377);" />
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2377)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:33.3333px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -3015,7 +3016,7 @@
     <text
        xml:space="preserve"
        id="text2394"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:Miso;font-style:normal;font-weight:normal;font-size:29.33333333px;white-space:pre;shape-inside:url(#rect2396);-inkscape-font-specification:Miso;font-stretch:normal;font-variant:normal;" />
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:Miso;font-style:normal;font-weight:normal;font-size:29.33333333px;white-space:pre;shape-inside:url(#rect2396);-inkscape-font-specification:Miso;font-stretch:normal;font-variant:normal" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"

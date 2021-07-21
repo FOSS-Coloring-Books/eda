@@ -42,7 +42,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="805.99998"
+     inkscape:cy="325.99999"
      inkscape:cx="616.49998"
      inkscape:zoom="1"
      showgrid="false"
@@ -64,7 +64,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="real image"
-     style="display:inline;opacity:0.830565">
+     style="display:none;opacity:0.830565">
     <image
        y="2.9472165"
        x="-1.2438418"
@@ -3089,14 +3089,14 @@
        transform="translate(231.90637,-116.61228)"><tspan
          x="-181.9257"
          y="643.97089"
-         id="tspan523832"><tspan
+         id="tspan527537"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523830">Mirror, mirror, </tspan></tspan><tspan
+           id="tspan527535">Mirror, mirror, </tspan></tspan><tspan
          x="-181.9257"
          y="670.78026"
-         id="tspan523836"><tspan
+         id="tspan527541"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523834">on the wall...</tspan></tspan></text>
+           id="tspan527539">on the wall...</tspan></tspan></text>
     <text
        id="text2402-6-8-3-9-3"
        y="643.97089"
@@ -3106,19 +3106,19 @@
        transform="translate(377.13064,-19.805943)"><tspan
          x="-181.9257"
          y="643.97089"
-         id="tspan523840"><tspan
+         id="tspan527545"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523838">Who's enterprise </tspan></tspan><tspan
+           id="tspan527543">Who's enterprise </tspan></tspan><tspan
          x="-181.9257"
          y="670.78026"
-         id="tspan523844"><tspan
+         id="tspan527549"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523842">architecture is </tspan></tspan><tspan
+           id="tspan527547">architecture is </tspan></tspan><tspan
          x="-181.9257"
          y="697.58965"
-         id="tspan523848"><tspan
+         id="tspan527553"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523846">best of them all?</tspan></tspan></text>
+           id="tspan527551">best of them all?</tspan></tspan></text>
     <text
        id="text2402-6-8-3-9-3-0"
        y="643.97089"
@@ -3128,24 +3128,24 @@
        transform="translate(649.34084,-78.752421)"><tspan
          x="-181.9257"
          y="643.97089"
-         id="tspan523852"><tspan
+         id="tspan527557"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523850">It is still SNOW WHITE's bakery, </tspan></tspan><tspan
+           id="tspan527555">It is still SNOW WHITE's bakery, </tspan></tspan><tspan
          x="-181.9257"
          y="670.78026"
-         id="tspan523856"><tspan
+         id="tspan527561"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523854">that has a serverless event-</tspan></tspan><tspan
+           id="tspan527559">that has a serverless event-</tspan></tspan><tspan
          x="-181.9257"
          y="697.58965"
-         id="tspan523860"><tspan
+         id="tspan527565"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523858">driven architecture, and not our </tspan></tspan><tspan
+           id="tspan527563">driven architecture, and not our </tspan></tspan><tspan
          x="-181.9257"
          y="724.39904"
-         id="tspan523864"><tspan
+         id="tspan527569"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523862">own architecture.</tspan></tspan></text>
+           id="tspan527567">own architecture.</tspan></tspan></text>
     <text
        id="text2402-6-8-3-9-3-0-5"
        y="643.97089"
@@ -3155,9 +3155,9 @@
        transform="translate(308.82399,422.17956)"><tspan
          x="-181.9257"
          y="643.97089"
-         id="tspan523868"><tspan
+         id="tspan527573"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan523866">Um... My QUEEN...</tspan></tspan></text>
+           id="tspan527571">Um... My QUEEN...</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 509.41904,670.52014 2.17578,29.14475"
@@ -3170,7 +3170,10 @@
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path522909"
-       d="m 533.21881,718.91908 c 1.69269,1.2318 3.4747,2.33011 5.17946,3.54555 1.39712,1.04853 2.85519,2.0888 3.94402,3.47637 0.20789,0.26491 0.38464,0.55285 0.57696,0.82928 1.34928,2.43426 1.2024,5.23885 1.06588,7.92557 -0.0701,2.13587 -0.0763,1.08073 0.0129,3.16544 0,0 1.31172,0.30923 1.31172,0.30923 v 0 c 0.7845,-1.83918 0.4668,-0.87306 0.93144,-2.90539 0.26821,-2.6449 0.49208,-5.37286 -0.80737,-7.80171 -0.1902,-0.2864 -0.36349,-0.58479 -0.57059,-0.85922 -1.07595,-1.42571 -2.54363,-2.48981 -3.96037,-3.54642 -1.70834,-1.16793 -3.48214,-2.23909 -5.15551,-3.45771 0,0 -2.52856,-0.68099 -2.52856,-0.68099 z" />
+       d="m 533.21881,718.91908 c 1.69269,1.2318 3.4747,2.33011 5.17946,3.54555 1.39712,1.04853 2.85519,2.0888 3.94402,3.47637 0.20789,0.26491 0.38464,0.55285 0.57696,0.82928 1.34928,2.43426 1.2024,5.23885 1.06588,7.92557 -0.0701,2.13587 -0.0763,1.08073 0.0129,3.16544 0,0 1.31172,0.30923 1.31172,0.30923 v 0 c 0.7845,-1.83918 0.4668,-0.87306 0.93144,-2.90539 0.26821,-2.6449 0.49208,-5.37286 -0.80737,-7.80171 -0.1902,-0.2864 -0.36349,-0.58479 -0.57059,-0.85922 -1.07595,-1.42571 -2.54363,-2.48981 -3.96037,-3.54642 -1.70834,-1.16793 -3.48214,-2.23909 -5.15551,-3.45771 0,0 -2.52856,-0.68099 -2.52856,-0.68099 z"
+       inkscape:export-filename="/home/mpeck/SparkleShare/github.com/coloringbook-eda/inkscape/pngs/review pngs/19th page.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
   <g
      id="g45567"

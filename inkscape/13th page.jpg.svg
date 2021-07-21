@@ -133,11 +133,11 @@
     </pattern>
   </defs>
   <sodipodi:namedview
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="506.6169"
+     inkscape:cy="725.69447"
      inkscape:cx="511.40922"
      inkscape:zoom="0.7303349"
      showgrid="false"
@@ -159,7 +159,7 @@
      id="g1711"
      inkscape:label="Image"
      inkscape:groupmode="layer"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <image
        id="image1713"
@@ -227,7 +227,6 @@
      inkscape:label="text"
      id="layer4"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
      style="display:inline">
     <text
        id="text943-9"
@@ -256,6 +255,40 @@
          y="62.431679"
          x="31.44994"
          sodipodi:role="line">can rollback any potential errors so production isn't affected.</tspan></text>
+    <text
+       id="text943-9-8"
+       y="971.42633"
+       x="183.11365"
+       style="font-style:normal;font-weight:normal;font-size:34.6667px;line-height:0;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso"
+         y="971.42633"
+         x="183.11365"
+         sodipodi:role="line"
+         id="tspan967-1">ALARM</tspan></text>
+    <text
+       id="text943-9-8-2"
+       y="615.42633"
+       x="433.68604"
+       style="font-style:normal;font-weight:normal;font-size:34.6667px;line-height:0;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso"
+         y="615.42633"
+         x="433.68604"
+         sodipodi:role="line"
+         id="tspan967-1-8">READY FOR COOKING</tspan></text>
+    <text
+       id="text943-9-8-9"
+       y="600.42285"
+       x="924.94"
+       style="font-style:normal;font-weight:normal;font-size:86.6667px;line-height:0;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.28447"
+       xml:space="preserve"
+       transform="scale(0.62683153,1.595325)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.6667px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso;stroke-width:2.28447"
+         y="600.42285"
+         x="924.94"
+         sodipodi:role="line"
+         id="tspan967-1-3">SCREECH</tspan></text>
   </g>
   <g
      inkscape:label="lines"

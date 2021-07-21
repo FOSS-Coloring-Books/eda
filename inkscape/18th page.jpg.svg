@@ -7,6 +7,9 @@
    viewBox="0 0 793.59998 1122.5601"
    sodipodi:docname="18th page.jpg.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="/home/mpeck/SparkleShare/github.com/coloringbook-eda/inkscape/pngs/review pngs/18th page.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -28,7 +31,14 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs46206" />
+     id="defs46206">
+    <rect
+       x="314.90834"
+       y="39.059362"
+       width="439.11606"
+       height="90.457185"
+       id="rect443516" />
+  </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
@@ -43,17 +53,17 @@
      inkscape:window-height="1043"
      id="namedview46204"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="461.38716"
-     inkscape:cy="220.61731"
+     inkscape:zoom="1"
+     inkscape:cx="409.5"
+     inkscape:cy="437"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="layer5"
      inkscape:pagecheckerboard="0"
      showguides="false" />
   <g
-     style="display:inline;opacity:0.806271"
+     style="display:none;opacity:0.806271"
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g46210"
@@ -2088,5 +2098,62 @@
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path135937"
        d="m 374.92113,911.36167 c -0.49327,2.3681 -0.49102,4.8214 -0.57222,7.23128 -0.0897,3.41339 -0.22863,6.82525 -0.26172,10.23986 -0.0204,2.44552 -0.004,4.89111 -0.0234,7.33663 -0.024,1.84979 -0.11851,3.69814 -0.19534,5.54642 -0.0531,1.49879 -0.0752,2.99785 -0.18677,4.49376 -0.0991,1.09445 -0.20573,2.18916 -0.35333,3.27827 0.02,0.35923 -0.27867,1.21575 -0.0416,1.52032 0.0496,0.0638 0.13332,0.0914 0.19997,0.13703 0,0 1.10237,-0.205 1.10237,-0.205 v 0 c 0.07,-0.0693 0.15395,-0.12705 0.21009,-0.20806 0.29577,-0.42686 0.10081,-1.0743 0.2376,-1.54645 0.1069,-1.06654 0.24072,-2.13073 0.31025,-3.20086 0.0908,-1.46956 0.1056,-2.94111 0.15167,-4.41246 0.0765,-1.80715 0.20974,-3.61219 0.21425,-5.422 -0.0184,-2.41639 -0.0816,-4.83222 -0.10632,-7.24855 -0.005,-3.37313 0.0357,-6.74678 0.12265,-10.11877 0.0565,-2.38141 0.21587,-4.76582 0.17311,-7.1466 0,0 -0.98124,-0.27482 -0.98124,-0.27482 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="text">
+    <text
+       xml:space="preserve"
+       id="text443514"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect443516);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="314.9082"
+         y="59.46172"
+         id="tspan489817"><tspan
+           style="line-height:1;font-family:miso;-inkscape-font-specification:miso"
+           id="tspan489815">Posioned apples are routed to a new conveyor belt </tspan></tspan><tspan
+         x="314.9082"
+         y="86.128423"
+         id="tspan489821"><tspan
+           style="line-height:1;font-family:miso;-inkscape-font-specification:miso"
+           id="tspan489819">system where they are bagged, tagged, and sent to </tspan></tspan><tspan
+         x="314.9082"
+         y="112.79512"
+         id="tspan489825"><tspan
+           style="line-height:1;font-family:miso;-inkscape-font-specification:miso"
+           id="tspan489823">the Kingdom's CRIME LAB for analysis.</tspan></tspan></text>
+    <text
+       id="text2402-6-8-3"
+       y="190.07185"
+       x="531.79913"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan12144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Miso;-inkscape-font-specification:Miso"
+         y="190.07185"
+         x="531.79913"
+         sodipodi:role="line">LAB</tspan></text>
+    <text
+       id="text2402-6-8-3-4"
+       y="779.48956"
+       x="66.909546"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:280.111;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="translate(0,4)"><tspan
+         x="66.909546"
+         y="779.48956"
+         id="tspan489829"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan489827">Safe apples are routed to the </tspan></tspan><tspan
+         x="66.909546"
+         y="806.29894"
+         id="tspan489833"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan489831">peeling and coring conveyor belt </tspan></tspan><tspan
+         x="66.909546"
+         y="833.10833"
+         id="tspan489837"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan489835">system to be baked into pies. </tspan></tspan></text>
   </g>
 </svg>

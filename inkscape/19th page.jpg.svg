@@ -42,9 +42,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="365.57421"
-     inkscape:cx="360.27091"
-     inkscape:zoom="1.4142136"
+     inkscape:cy="759.99998"
+     inkscape:cx="629.49998"
+     inkscape:zoom="1"
      showgrid="false"
      id="namedview45561"
      inkscape:window-height="1043"
@@ -64,7 +64,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="real image"
-     style="display:inline;opacity:0.830565">
+     style="display:none;opacity:0.830565">
     <image
        y="2.9472165"
        x="-1.2438418"
@@ -3069,6 +3069,95 @@
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path98117"
        d="m 302.18184,882.15018 c 0.63524,-0.82888 1.50408,-1.41616 2.36463,-1.98549 0.63743,-0.43357 1.32673,-0.76105 2.06407,-0.97945 0.48299,-0.11947 0.97007,-0.22138 1.45686,-0.32391 0.20914,-0.0404 0.41907,-0.0778 0.62974,-0.10942 0.0706,-0.0106 0.28272,-0.0394 0.21212,-0.029 -1.97965,0.29114 -2.58651,0.32979 -1.69958,0.26507 0.51144,4.3e-4 1.01768,-0.0568 1.52471,-0.11732 0,0 1.17922,-0.33686 1.17922,-0.33686 v 0 c 0.006,-0.0363 0.0402,-0.0805 0.0169,-0.10902 -0.11483,-0.14054 -0.47145,-0.0304 -0.6135,-0.0657 -1.16073,0.0359 -2.31057,0.27034 -3.45073,0.48383 -0.48304,0.10378 -0.96786,0.20394 -1.44144,0.34598 -0.71792,0.24772 -1.3837,0.60465 -2.00724,1.03923 -0.87048,0.59282 -1.71974,1.2205 -2.37509,2.0574 0,0 2.1393,-0.13534 2.1393,-0.13534 z" />
+    <text
+       id="text2402-6-8-3"
+       y="46.689388"
+       x="23.317547"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan12144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Miso;-inkscape-font-specification:Miso"
+         y="46.689388"
+         x="23.317547"
+         sodipodi:role="line">Meanwhile, at the evil QUEEN's lair...</tspan></text>
+    <text
+       id="text2402-6-8-3-9"
+       y="643.97089"
+       x="-181.9257"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:136.071;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="translate(231.90637,-116.61228)"><tspan
+         x="-181.9257"
+         y="643.97089"
+         id="tspan522669"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522667">Mirror, mirror, </tspan></tspan><tspan
+         x="-181.9257"
+         y="670.78026"
+         id="tspan522673"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522671">on the wall...</tspan></tspan></text>
+    <text
+       id="text2402-6-8-3-9-3"
+       y="643.97089"
+       x="-181.9257"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:151.511;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="translate(377.13064,-19.805943)"><tspan
+         x="-181.9257"
+         y="643.97089"
+         id="tspan522677"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522675">Who's enterprise </tspan></tspan><tspan
+         x="-181.9257"
+         y="670.78026"
+         id="tspan522681"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522679">architecture is </tspan></tspan><tspan
+         x="-181.9257"
+         y="697.58965"
+         id="tspan522685"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522683">best of them all?</tspan></tspan></text>
+    <text
+       id="text2402-6-8-3-9-3-0"
+       y="643.97089"
+       x="-181.9257"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:271.932;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="translate(649.34084,-78.752421)"><tspan
+         x="-181.9257"
+         y="643.97089"
+         id="tspan522689"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522687">It is still SNOW WHITE's bakery, </tspan></tspan><tspan
+         x="-181.9257"
+         y="670.78026"
+         id="tspan522693"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522691">that has a serverless event-</tspan></tspan><tspan
+         x="-181.9257"
+         y="697.58965"
+         id="tspan522697"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522695">driven architecture, and not our </tspan></tspan><tspan
+         x="-181.9257"
+         y="724.39904"
+         id="tspan522701"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522699">own architecture.</tspan></tspan></text>
+    <text
+       id="text2402-6-8-3-9-3-0-5"
+       y="643.97089"
+       x="-181.9257"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:271.932;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="translate(308.82399,422.17956)"><tspan
+         x="-181.9257"
+         y="643.97089"
+         id="tspan522705"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan522703">Um... My QUEEN...</tspan></tspan></text>
   </g>
   <g
      id="g45567"

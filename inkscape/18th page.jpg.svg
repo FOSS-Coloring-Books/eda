@@ -26,7 +26,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +54,7 @@
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="409.5"
-     inkscape:cy="437"
+     inkscape:cy="357"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2102,26 +2101,27 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="text">
+     inkscape:label="text"
+     style="display:none">
     <text
        xml:space="preserve"
        id="text443514"
        style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect443516);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="314.9082"
          y="59.46172"
-         id="tspan489817"><tspan
+         id="tspan5235"><tspan
            style="line-height:1;font-family:miso;-inkscape-font-specification:miso"
-           id="tspan489815">Posioned apples are routed to a new conveyor belt </tspan></tspan><tspan
+           id="tspan5233">Posioned apples are routed to a new conveyor belt </tspan></tspan><tspan
          x="314.9082"
          y="86.128423"
-         id="tspan489821"><tspan
+         id="tspan5239"><tspan
            style="line-height:1;font-family:miso;-inkscape-font-specification:miso"
-           id="tspan489819">system where they are bagged, tagged, and sent to </tspan></tspan><tspan
+           id="tspan5237">system where they are bagged, tagged, and sent to </tspan></tspan><tspan
          x="314.9082"
          y="112.79512"
-         id="tspan489825"><tspan
+         id="tspan5243"><tspan
            style="line-height:1;font-family:miso;-inkscape-font-specification:miso"
-           id="tspan489823">the Kingdom's CRIME LAB for analysis.</tspan></tspan></text>
+           id="tspan5241">the Kingdom's CRIME LAB for analysis.</tspan></tspan></text>
     <text
        id="text2402-6-8-3"
        y="190.07185"
@@ -2142,18 +2142,18 @@
        transform="translate(0,4)"><tspan
          x="66.909546"
          y="779.48956"
-         id="tspan489829"><tspan
+         id="tspan5247"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan489827">Safe apples are routed to the </tspan></tspan><tspan
+           id="tspan5245">Safe apples are routed to the </tspan></tspan><tspan
          x="66.909546"
          y="806.29894"
-         id="tspan489833"><tspan
+         id="tspan5251"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan489831">peeling and coring conveyor belt </tspan></tspan><tspan
+           id="tspan5249">peeling and coring conveyor belt </tspan></tspan><tspan
          x="66.909546"
          y="833.10833"
-         id="tspan489837"><tspan
+         id="tspan5255"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan489835">system to be baked into pies. </tspan></tspan></text>
+           id="tspan5253">system to be baked into pies. </tspan></tspan></text>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="6th page.jpg.svg"
    viewBox="0 0 793.59998 1122.5601"
    height="1122.5601"
@@ -26,7 +26,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,12 +89,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="596.79812"
-     inkscape:cx="236.88077"
-     inkscape:zoom="0.70710678"
+     inkscape:cy="784.5"
+     inkscape:cx="479.5"
+     inkscape:zoom="1"
      showgrid="false"
      id="namedview18289"
-     inkscape:window-height="1043"
+     inkscape:window-height="1016"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -3240,9 +3239,23 @@
        style="fill:none;stroke:#000000;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 477.30675,27.559211 c 0,0 13.13395,93.338099 12.04153,111.786399 -1.09243,18.44831 -4.93456,85.20637 -4.93456,85.20637"
        id="path214256" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 698.2318,763.05529 c 0,0 18.54246,87.1909 38.3083,130.48738 12.82728,28.09778 36.33031,49.36972 36.33031,49.36972"
+       id="path132243"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 388.99805,450.11719 c 0,0 10.52344,31.05664 14.02344,37.35742 3.5,6.30078 7.8164,14.88086 7.8164,14.88086"
+       id="path133052" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 481.63867,602.96875 c 0,0 12.19532,20.0039 15.5254,24.17773 3.33008,4.17383 8.54687,10.24415 8.54687,10.24415"
+       id="path133120"
+       sodipodi:nodetypes="csc" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="text">
@@ -3255,16 +3268,16 @@
          id="tspan4891"
          sodipodi:role="line"
          x="334.27856"
-         y="792.61218"
+         y="799.65906"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Miso;-inkscape-font-specification:Miso;text-align:center;text-anchor:middle">Your Highness- it's from</tspan><tspan
          sodipodi:role="line"
          x="334.27856"
-         y="822.10242"
+         y="858.63953"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Miso;-inkscape-font-specification:Miso;text-align:center;text-anchor:middle"
          id="tspan10028">SNOW WHITE'S new</tspan><tspan
          sodipodi:role="line"
          x="334.27856"
-         y="851.59271"
+         y="888.12982"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Miso;-inkscape-font-specification:Miso;text-align:center;text-anchor:middle"
          id="tspan10030">Serverless EDA BAKERY</tspan></text>
     <text
@@ -3275,12 +3288,12 @@
        id="text2402-9"><tspan
          sodipodi:role="line"
          x="640.25311"
-         y="480.21249"
+         y="486.61874"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Miso;-inkscape-font-specification:Miso;text-align:center;text-anchor:middle"
          id="tspan10030-1">This pie! Where did it </tspan><tspan
          sodipodi:role="line"
          x="640.25311"
-         y="507.02188"
+         y="513.42816"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Miso;-inkscape-font-specification:Miso;text-align:center;text-anchor:middle"
          id="tspan139761">come from? It's delicious!</tspan></text>
     <text
@@ -3313,18 +3326,18 @@
        id="text2402-7"><tspan
          sodipodi:role="line"
          x="394.58517"
-         y="1014.3289"
+         y="1021.2188"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso"
          id="tspan2406">Serverless? How does</tspan><tspan
          sodipodi:role="line"
          x="394.58517"
-         y="1043.6622"
+         y="1079.8854"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso"
          id="tspan10042">one serve customers</tspan><tspan
          id="tspan4891-3"
          sodipodi:role="line"
          x="394.58517"
-         y="1072.9955"
+         y="1109.2188"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso">without... servers?</tspan></text>
   </g>
   <g

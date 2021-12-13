@@ -6,8 +6,8 @@
    height="1122.5601"
    viewBox="0 0 793.59998 1122.5601"
    sodipodi:docname="4th page.jpg.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   inkscape:export-filename="/home/mpeck/SparkleShare/github.com/coloringbook-eda/inkscape/pngs/4th page w text.png"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="/home/mpeck/SparkleShare/github.com/coloringbook-eda/inkscape/pngs/final ready for scribus/4th page.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -78,9 +78,9 @@
      inkscape:window-height="1016"
      id="namedview11871"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="431.5"
-     inkscape:cy="474.5"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="392.44426"
+     inkscape:cy="573.4636"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -105,7 +105,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="white"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:2"
@@ -5516,7 +5516,7 @@
        inkscape:export-ydpi="96" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="text"
      id="layer3"
      inkscape:groupmode="layer">
@@ -5528,17 +5528,17 @@
        xml:space="preserve"><tspan
          id="tspan8196"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:miso;-inkscape-font-specification:miso"
-         y="50.00642"
+         y="56.269993"
          x="413.29889"
          sodipodi:role="line">For example, as SNOW WHITE uses her</tspan><tspan
          id="tspan8200"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:miso;-inkscape-font-specification:miso"
-         y="76.673119"
+         y="109.60339"
          x="413.29889"
          sodipodi:role="line">eggs up in her bakery, it may produce</tspan><tspan
          id="tspan8202"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:miso;-inkscape-font-specification:miso"
-         y="103.33982"
+         y="136.2701"
          x="413.29889"
          sodipodi:role="line">egg usage events.</tspan></text>
     <text
@@ -5559,13 +5559,13 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1;font-family:miso;-inkscape-font-specification:miso;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:miso;-inkscape-font-specification:miso"
-         y="792.61218"
+         y="799.50208"
          x="53.384724"
          sodipodi:role="line"
          id="tspan4891-7">When it consumes enough egg usage events above a certain threshold,</tspan><tspan
          id="tspan8232"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:miso;-inkscape-font-specification:miso"
-         y="821.9455"
+         y="828.83539"
          x="53.384724"
          sodipodi:role="line">EVENT KNATIVE may place an order with CHICKEN LITTLE for more eggs.</tspan></text>
     <text
@@ -5610,10 +5610,10 @@
        transform="translate(-70.519531,-86.337891)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan43208">I know you used </tspan><tspan
+         id="tspan107952">I know you used </tspan><tspan
          x="488.61606"
          y="628.91278"
-         id="tspan43210">up all the eggs.</tspan></text>
+         id="tspan107954">up all the eggs.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:miso;-inkscape-font-specification:miso;white-space:pre;inline-size:98.4925;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5623,13 +5623,13 @@
        transform="translate(167.04638,-115.24643)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan43212">I placed an extra </tspan><tspan
+         id="tspan107956">I placed an extra </tspan><tspan
          x="488.61606"
          y="627.24613"
-         id="tspan43214">order &amp; I'm placing </tspan><tspan
+         id="tspan107958">order &amp; I'm placing </tspan><tspan
          x="488.61606"
          y="647.24613"
-         id="tspan43216">another today</tspan></text>
+         id="tspan107960">another today</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:miso;-inkscape-font-specification:miso;white-space:pre;inline-size:113.46;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5639,13 +5639,13 @@
        transform="translate(-259.68214,275.55045)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan43218">Hey I'd like to </tspan><tspan
+         id="tspan107962">Hey I'd like to </tspan><tspan
          x="488.61606"
          y="637.24615"
-         id="tspan43220">order a couple </tspan><tspan
+         id="tspan107964">order a couple </tspan><tspan
          x="488.61606"
          y="667.24615"
-         id="tspan43222">dozen eggs!</tspan></text>
+         id="tspan107966">dozen eggs!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:miso;-inkscape-font-specification:miso;white-space:pre;inline-size:73.6556;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5655,13 +5655,13 @@
        transform="translate(-45.932514,-446.56368)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan43224">This is </tspan><tspan
+         id="tspan107968">This is </tspan><tspan
          x="488.61606"
          y="633.91276"
-         id="tspan43226">gonna be </tspan><tspan
+         id="tspan107970">gonna be </tspan><tspan
          x="488.61606"
          y="660.57939"
-         id="tspan43228">eggcelent!</tspan></text>
+         id="tspan107972">eggcelent!</tspan></text>
     <text
        xml:space="preserve"
        id="text108885"
@@ -5675,7 +5675,7 @@
        transform="translate(206.82045,-349.55427)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan43230">hehe!</tspan></text>
+         id="tspan107974">hehe!</tspan></text>
   </g>
   <g
      style="display:inline"

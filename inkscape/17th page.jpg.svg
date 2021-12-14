@@ -30,14 +30,20 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs44920" />
+     id="defs44920">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect175289"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
   <sodipodi:namedview
      inkscape:current-layer="g44924"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="431.16083"
-     inkscape:cx="323.50256"
+     inkscape:cy="244.34206"
+     inkscape:cx="265.45153"
      inkscape:zoom="0.94744228"
      showgrid="false"
      id="namedview44918"
@@ -1020,6 +1026,18 @@
        d="m 245.80313,268.93344 c 0,0 -3.47816,10.02566 -0.56882,14.61696 l 2.90933,4.59129"
        id="path258895"
        sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 153.66065,372.57445 C 118.53728,366.40144 85.85199,347.22366 63.329969,319.57379 40.807949,291.92392 28.63886,256.0348 29.698878,220.38885 30.758897,184.74291 45.039096,149.64032 69.164338,123.37762 93.289581,97.114915 127.0567,79.913257 162.48482,75.83827 c 28.63024,-3.293086 58.18313,1.892158 83.98217,14.735211 25.79905,12.843049 47.75081,33.297399 62.3816,58.126309 14.6308,24.8289 21.88763,53.94245 20.62218,82.73365 -1.26546,28.79121 -11.04863,57.15579 -27.8014,80.6053"
+       id="path175287"
+       inkscape:path-effect="#path-effect175289"
+       inkscape:original-d="m 153.66065,372.57445 c -0.64439,-94.7146 8.92633,-201.84366 8.82417,-296.73618 -0.10217,-94.892519 91.49822,166.57459 139.18455,236.20047"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 266.50023,349.63604 8.32094,-8.12163"
+       id="path175570"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1035,24 +1053,24 @@
        transform="translate(-856.57084,-371.54187)"><tspan
          x="902.55151"
          y="426.12674"
-         id="tspan175208"><tspan
+         id="tspan176310"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175206">SERVE increases the number of </tspan></tspan><tspan
+           id="tspan176308">SERVE increases the number of </tspan></tspan><tspan
          x="902.55151"
          y="452.93612"
-         id="tspan175212"><tspan
+         id="tspan176314"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175210">poison detection services as a </tspan></tspan><tspan
+           id="tspan176312">poison detection services as a </tspan></tspan><tspan
          x="902.55151"
          y="479.7455"
-         id="tspan175216"><tspan
+         id="tspan176318"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175214">new apple delivery comes down </tspan></tspan><tspan
+           id="tspan176316">new apple delivery comes down </tspan></tspan><tspan
          x="902.55151"
          y="506.55489"
-         id="tspan175220"><tspan
+         id="tspan176322"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175218">the chute and the load increases.</tspan></tspan></text>
+           id="tspan176320">the chute and the load increases.</tspan></tspan></text>
     <text
        id="text2402-6-8-3-0-0"
        y="615.19952"
@@ -1062,19 +1080,19 @@
        transform="translate(-476.3964,-187.03334)"><tspan
          x="845.59705"
          y="615.19952"
-         id="tspan175224"><tspan
+         id="tspan176326"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175222">When the delivery finishes, he will stop some </tspan></tspan><tspan
+           id="tspan176324">When the delivery finishes, he will stop some </tspan></tspan><tspan
          x="845.59705"
          y="642.0089"
-         id="tspan175228"><tspan
+         id="tspan176330"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175226">of the instances to free up resources for other </tspan></tspan><tspan
+           id="tspan176328">of the instances to free up resources for other </tspan></tspan><tspan
          x="845.59705"
          y="668.81829"
-         id="tspan175232"><tspan
+         id="tspan176334"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175230">bakery tasks. </tspan></tspan></text>
+           id="tspan176332">bakery tasks. </tspan></tspan></text>
     <text
        id="text2402-6-8-3-0"
        y="899.61072"
@@ -1084,19 +1102,19 @@
        transform="translate(-600.21669,116.30965)"><tspan
          x="819.06519"
          y="899.61072"
-         id="tspan175236"><tspan
+         id="tspan176338"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175234">EVENT KNATIVE listens to the event channel, producing events </tspan></tspan><tspan
+           id="tspan176336">EVENT KNATIVE listens to the event channel, producing events </tspan></tspan><tspan
          x="819.06519"
          y="926.42009"
-         id="tspan175240"><tspan
+         id="tspan176342"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175238">when the new poison detector goes off, and consuming those </tspan></tspan><tspan
+           id="tspan176340">when the new poison detector goes off, and consuming those </tspan></tspan><tspan
          x="819.06519"
          y="953.22948"
-         id="tspan175244"><tspan
+         id="tspan176346"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175242">events in order to route safe and poisoned apples.</tspan></tspan></text>
+           id="tspan176344">events in order to route safe and poisoned apples.</tspan></tspan></text>
     <text
        id="text2402-6-8-3-0-2-9"
        y="932.14008"
@@ -1106,14 +1124,14 @@
        transform="translate(-650.33775,-259.71519)"><tspan
          x="977.18475"
          y="932.14008"
-         id="tspan175248"><tspan
+         id="tspan176350"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175246">POISON </tspan></tspan><tspan
+           id="tspan176348">POISON </tspan></tspan><tspan
          x="977.18475"
          y="966.99226"
-         id="tspan175252"><tspan
+         id="tspan176354"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan175250">DETECTOR</tspan></tspan></text>
+           id="tspan176352">DETECTOR</tspan></tspan></text>
   </g>
   <g
      inkscape:label="lines"

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="13th page.jpg.svg"
    viewBox="0 0 793.59998 1122.5601"
    height="1122.5601"
    width="793.59998"
    id="svg1703"
    version="1.1"
-   inkscape:export-filename="/home/mpeck/SparkleShare/github.com/coloringbook-eda/inkscape/pngs/review pngs/13th page.png"
+   inkscape:export-filename="/home/mpeck/SparkleShare/github.com/coloringbook-eda/inkscape/pngs/final ready for scribus/13th page.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,7 +26,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -134,18 +133,31 @@
          r="0.5"
          id="circle35776" />
     </pattern>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10412-0"
+       x="-0.075278086"
+       width="1.1525883"
+       y="-0.096283272"
+       height="1.1937573">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.16243178"
+         id="feGaussianBlur10414-3" />
+    </filter>
   </defs>
   <sodipodi:namedview
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="725.69447"
-     inkscape:cx="511.40922"
-     inkscape:zoom="0.7303349"
+     inkscape:cy="785.5985"
+     inkscape:cx="215.31218"
+     inkscape:zoom="1.4606698"
      showgrid="false"
      id="namedview1705"
-     inkscape:window-height="1043"
+     inkscape:window-height="1016"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -230,7 +242,7 @@
      inkscape:label="text"
      id="layer4"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:none">
     <text
        id="text943-9"
        y="671.16187"
@@ -250,12 +262,12 @@
        xml:space="preserve"><tspan
          id="tspan2302"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso"
-         y="33.098381"
+         y="39.988297"
          x="31.44994"
          sodipodi:role="line">Just like rolling back on Snow's spooky pumpkin pies, the bakery </tspan><tspan
          id="tspan2306"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1;font-family:Miso;-inkscape-font-specification:Miso"
-         y="62.431679"
+         y="69.321594"
          x="31.44994"
          sodipodi:role="line">can rollback any potential errors so production isn't affected.</tspan></text>
     <text
@@ -1618,5 +1630,15 @@
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path159443"
        d="m 270.38759,374.43785 c -1.81865,3.27877 -2.86721,6.8844 -3.68091,10.52166 -0.82845,4.13123 -0.19457,8.31324 0.2306,12.44755 0.28634,3.02944 0.79638,6.03134 1.40648,9.01054 0.28265,1.00264 0.30046,2.39251 1.15055,3.15076 0.18193,0.16227 0.41517,0.25563 0.62276,0.38345 0,0 1.38265,0.29394 1.38265,0.29394 v 0 c 0.0568,-0.0537 0.15715,-0.0842 0.17033,-0.16124 0.1017,-0.59485 -0.75994,-2.23667 -0.79107,-2.86883 -0.70698,-2.93168 -1.19097,-5.91025 -1.55123,-8.90387 -0.50224,-4.03864 -1.1473,-8.13704 -0.38965,-12.18712 0.77447,-3.55562 1.82366,-7.05246 3.63802,-10.23349 0,0 -2.18853,-1.45335 -2.18853,-1.45335 z" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.46809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 113.79142,763.0265 v 0 l -2.7692,10.45212 -8.72505,5.17926 -11.805393,-3.15533 -1.621773,-8.7391 4.918046,-9.62087 9.26409,-1.85464"
+       id="path7735-7-1-3"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       id="path7733-7-6"
+       d="m 768.09617,888.4593 4.33077,0.26025 2.6842,1.76838 1.0518,2.79159 -1.4847,2.9091 -4.4546,1.60674 -4.46405,-1.02358 -1.69898,-2.24514 0.46144,-3.71618 z"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10412-0)"
+       transform="matrix(1.4180614,-0.37996841,0.37996841,1.4180614,-1319.567,-217.44176)" />
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="17th page.jpg.svg"
    viewBox="0 0 793.59998 1122.5601"
    height="1122.5601"
@@ -26,23 +26,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs44920" />
   <sodipodi:namedview
-     inkscape:current-layer="g44924"
+     inkscape:current-layer="layer4"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="446.30672"
-     inkscape:cx="870.9698"
+     inkscape:cy="536.61293"
+     inkscape:cx="327.63988"
      inkscape:zoom="0.66994286"
      showgrid="false"
      id="namedview44918"
-     inkscape:window-height="1043"
+     inkscape:window-height="1016"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -980,7 +979,7 @@
        d="m 77.479367,957.22213 2.2334,17.49023"
        id="path126266" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 167.51825,303.90724 c 0,0 3.44471,-4.44762 6.06278,-5.56906 2.61807,-1.12144 14.04068,2.83555 14.04068,2.83555"
        id="path169642" />
     <path
@@ -1038,11 +1037,11 @@
        id="path253027"
        sodipodi:nodetypes="csc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 189.82027,1041.1357 c 0,0 -36.35611,19.6232 -51.13273,33.0042 -14.77663,13.381 -34.90483,32.6372 -34.90483,32.6372"
        id="path254148" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 188.10307,974.35851 1.7172,66.77719"
        id="path254314" />
     <path
@@ -1066,15 +1065,15 @@
        id="path254769"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 77.717466,1061.9009 -0.542167,44.1423"
        id="path254837" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 50.584421,1083.6701 0.06414,23.3375"
        id="path256527" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 264.15499,266.15056 c 0,0 -2.40371,-5.88466 -4.67915,-7.4575 -2.27544,-1.57283 3.78268,-3.41826 3.78268,-3.41826 0,0 4.55088,5.30887 4.74329,8.13532 0.19241,2.82644 -0.44897,4.03777 -0.44897,4.03777 z"
        id="path258768" />
     <path
@@ -1087,99 +1086,106 @@
        d="m 240.74789,279.0823 c 0,0 -3.47816,10.02566 -0.56882,14.61696 l 2.90933,4.59129"
        id="path258895"
        sodipodi:nodetypes="csc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="text"
+     style="display:none">
     <text
-       id="text2402-6-8-3-0"
-       y="899.61072"
-       x="819.06519"
-       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:559.255;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="text2402-6-8-3-0-1-3"
+       y="426.12674"
+       x="902.55151"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:291.458;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="translate(-601.06572,120.50351)"><tspan
-         x="819.06519"
-         y="899.61072"
-         id="tspan437385"><tspan
+       transform="translate(-856.57084,-371.54187)"><tspan
+         x="902.55151"
+         y="426.12674"
+         id="tspan99096"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437383">EVENT KNATIVE listens to the event channel, producing events </tspan></tspan><tspan
-         x="819.06519"
-         y="926.42009"
-         id="tspan437389"><tspan
+           id="tspan99094">SERVE increases the number of </tspan></tspan><tspan
+         x="902.55151"
+         y="452.93612"
+         id="tspan99100"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437387">when the new poison detector goes off, and consuming those </tspan></tspan><tspan
-         x="819.06519"
-         y="953.22948"
-         id="tspan437393"><tspan
+           id="tspan99098">poison detection services as a </tspan></tspan><tspan
+         x="902.55151"
+         y="479.7455"
+         id="tspan99104"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437391">events in order to route safe and poisoned apples.</tspan></tspan></text>
+           id="tspan99102">new apple delivery comes down </tspan></tspan><tspan
+         x="902.55151"
+         y="506.55489"
+         id="tspan99108"><tspan
+           style="font-family:Miso;-inkscape-font-specification:Miso"
+           id="tspan99106">the chute and the load increases.</tspan></tspan></text>
     <text
        id="text2402-6-8-3-0-0"
        y="615.19952"
        x="845.59705"
        style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:407.134;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="translate(-478.277,-192.27957)"><tspan
+       transform="translate(-476.3964,-187.03334)"><tspan
          x="845.59705"
          y="615.19952"
-         id="tspan437397"><tspan
+         id="tspan99112"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437395">When the delivery finishes, he will stop some </tspan></tspan><tspan
+           id="tspan99110">When the delivery finishes, he will stop some </tspan></tspan><tspan
          x="845.59705"
          y="642.0089"
-         id="tspan437401"><tspan
+         id="tspan99116"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437399">of the instances to free up resources for other </tspan></tspan><tspan
+           id="tspan99114">of the instances to free up resources for other </tspan></tspan><tspan
          x="845.59705"
          y="668.81829"
-         id="tspan437405"><tspan
+         id="tspan99120"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437403">bakery tasks. </tspan></tspan></text>
+           id="tspan99118">bakery tasks. </tspan></tspan></text>
     <text
-       id="text2402-6-8-3-0-1"
-       y="426.12674"
-       x="902.55151"
-       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:291.458;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="text2402-6-8-3-0"
+       y="899.61072"
+       x="819.06519"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:559.255;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="translate(-862.70767,-377.61481)"><tspan
-         x="902.55151"
-         y="426.12674"
-         id="tspan437409"><tspan
+       transform="translate(-600.21669,116.30965)"><tspan
+         x="819.06519"
+         y="899.61072"
+         id="tspan99124"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437407">SERVE increases the number of </tspan></tspan><tspan
-         x="902.55151"
-         y="452.93612"
-         id="tspan437413"><tspan
+           id="tspan99122">EVENT KNATIVE listens to the event channel, producing events </tspan></tspan><tspan
+         x="819.06519"
+         y="926.42009"
+         id="tspan99128"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437411">poison detection services as a </tspan></tspan><tspan
-         x="902.55151"
-         y="479.7455"
-         id="tspan437417"><tspan
+           id="tspan99126">when the new poison detector goes off, and consuming those </tspan></tspan><tspan
+         x="819.06519"
+         y="953.22948"
+         id="tspan99132"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437415">new apple delivery comes down </tspan></tspan><tspan
-         x="902.55151"
-         y="506.55489"
-         id="tspan437421"><tspan
-           style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437419">the chute and the load increases.</tspan></tspan></text>
+           id="tspan99130">events in order to route safe and poisoned apples.</tspan></tspan></text>
     <text
-       id="text2402-6-8-3-0-2"
+       id="text2402-6-8-3-0-2-9"
        y="932.14008"
        x="977.18475"
        style="font-style:normal;font-weight:normal;font-size:34.6667px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:128.439;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="translate(-653.50723,-259.78778)"><tspan
+       transform="translate(-650.33775,-259.71519)"><tspan
          x="977.18475"
          y="932.14008"
-         id="tspan437425"><tspan
+         id="tspan99136"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437423">POISON </tspan></tspan><tspan
+           id="tspan99134">POISON </tspan></tspan><tspan
          x="977.18475"
          y="966.99226"
-         id="tspan437429"><tspan
+         id="tspan99140"><tspan
            style="font-family:Miso;-inkscape-font-specification:Miso"
-           id="tspan437427">DETECTOR</tspan></tspan></text>
+           id="tspan99138">DETECTOR</tspan></tspan></text>
   </g>
   <g
      inkscape:label="lines"
      id="layer16"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     style="display:inline">
     <path
        d="m 39.847414,1099.2396 c -1.590769,0.8317 -0.757936,0.3922 -2.497465,1.3203 0,0 -0.123488,0.099 -0.123488,0.099 v 0 c 1.590169,-0.7981 0.815237,-0.4038 2.325378,-1.1818 0,0 0.295575,-0.2376 0.295575,-0.2376 z"
        id="path53798"
@@ -1398,15 +1404,15 @@
        id="path53986"
        style="fill:#000000" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 383.29121,137.8091 0.70406,11.06233 363.00758,-0.99559 0.67345,-11.72558 z"
        id="path7833" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 580.65274,609.9827 9.06282,0.6632 5.61706,4.50644 2.20116,7.11394 -3.10699,7.41343 -9.32189,4.09454 -9.34183,-2.60844 -3.55538,-5.72139 0.96562,-9.47014 z"
        id="path7733" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 591.09062,631.74886 4.80996,9.4751 -9.56104,17.94129 -17.35932,5.25 -18.81318,-11.67481 1.23555,-16.95008 12.86732,-15.34155 8.91335,0.93395"
        id="path7735"
        sodipodi:nodetypes="cccccccc" />
@@ -1649,14 +1655,15 @@
        id="path253282"
        sodipodi:nodetypes="csssssc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:none;stroke:#000000;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 18.818653,814.99488 87.924357,-0.59036"
        id="path258479" />
   </g>
   <g
      inkscape:label="boxes"
      id="layer17"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     style="display:inline">
     <rect
        y="12.323114"
        x="17.703848"
@@ -1679,7 +1686,7 @@
        id="rect47117"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 423.80597,93.41107 c -2.11509,-0.15743 -6.31467,-0.705518 -11.60313,3.419718 -5.28847,4.125232 -9.45452,8.738792 -8.42977,12.129362 1.02475,3.39056 6.79425,14.85667 11.47486,16.09716 4.68061,1.24048 12.85383,0.67928 16.34789,-0.89356 3.49406,-1.57284 8.30149,-8.62655 8.36562,-11.72704 0.0641,-3.10048 -1.95766,-11.95589 -4.84095,-14.235703 -2.88329,-2.279812 -11.31452,-4.789937 -11.31452,-4.789937 z"
        id="path7948" />
   </g>

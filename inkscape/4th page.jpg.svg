@@ -78,9 +78,9 @@
      inkscape:window-height="1016"
      id="namedview11871"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="516.75"
-     inkscape:cy="633.25"
+     inkscape:zoom="1"
+     inkscape:cx="377.5"
+     inkscape:cy="323.5"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -5535,7 +5535,7 @@
        d="m 591.3159,730.19874 c 1.52942,-0.23055 3.07843,-0.20585 4.61844,-0.13335 0.85516,0.0428 1.67995,-0.15107 2.50477,-0.34218 0,0 0.0804,-0.0567 0.0804,-0.0567 v 0 c -0.19663,-0.58456 -0.41652,-0.6079 -1.03039,-0.72039 -1.57717,-0.063 -3.16217,-0.0988 -4.72574,0.16283 0,0 -1.44743,1.08981 -1.44743,1.08981 z" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="text"
      id="layer3"
      inkscape:groupmode="layer">
@@ -5629,10 +5629,10 @@
        transform="translate(-70.519531,-86.337891)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan125379">I know you used </tspan><tspan
+         id="tspan206847">I know you used </tspan><tspan
          x="488.61606"
          y="628.91278"
-         id="tspan125381">up all the eggs.</tspan></text>
+         id="tspan206849">up all the eggs.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:miso;-inkscape-font-specification:miso;white-space:pre;inline-size:98.4925;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5642,13 +5642,13 @@
        transform="translate(167.04638,-115.24643)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan125383">I placed an extra </tspan><tspan
+         id="tspan206851">I placed an extra </tspan><tspan
          x="488.61606"
          y="627.24613"
-         id="tspan125385">order &amp; I'm placing </tspan><tspan
+         id="tspan206853">order &amp; I'm placing </tspan><tspan
          x="488.61606"
          y="647.24613"
-         id="tspan125387">another today</tspan></text>
+         id="tspan206855">another today</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:miso;-inkscape-font-specification:miso;white-space:pre;inline-size:113.46;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5658,13 +5658,13 @@
        transform="translate(-259.68214,275.55045)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan125389">Hey I'd like to </tspan><tspan
+         id="tspan206857">Hey I'd like to </tspan><tspan
          x="488.61606"
          y="637.24615"
-         id="tspan125391">order a couple </tspan><tspan
+         id="tspan206859">order a couple </tspan><tspan
          x="488.61606"
          y="667.24615"
-         id="tspan125393">dozen eggs!</tspan></text>
+         id="tspan206861">dozen eggs!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:miso;-inkscape-font-specification:miso;white-space:pre;inline-size:73.6556;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5674,13 +5674,13 @@
        transform="translate(-45.932514,-446.56368)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan125395">This is </tspan><tspan
+         id="tspan206863">This is </tspan><tspan
          x="488.61606"
          y="633.91276"
-         id="tspan125397">gonna be </tspan><tspan
+         id="tspan206865">gonna be </tspan><tspan
          x="488.61606"
          y="660.57939"
-         id="tspan125399">eggcelent!</tspan></text>
+         id="tspan206867">eggcelent!</tspan></text>
     <text
        xml:space="preserve"
        id="text108885"
@@ -5694,7 +5694,7 @@
        transform="translate(206.82045,-349.55427)"><tspan
          x="488.61606"
          y="607.24615"
-         id="tspan125401">hehe!</tspan></text>
+         id="tspan206869">hehe!</tspan></text>
   </g>
   <g
      style="display:inline"
